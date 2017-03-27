@@ -13,7 +13,8 @@
 1.0.0
 
 ## Usage
-  In your js/script.js, find functions search(), prevPage(), nextPage().
+  In your js/script.js, find functions search(), prevPage(), nextPage().  
+  
   Enter your API key in the GET request for all the 3 functions.
   
    	 $.get(
