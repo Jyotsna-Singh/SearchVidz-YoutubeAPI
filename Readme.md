@@ -13,11 +13,17 @@
 1.0.0
 
 ## Usage
-    $('span').linkIt({
-			href: 'http://jyotsnasingh.com',
-			text: 'Click Me',
-			target : '_blank'
-		});
+  In your js/script.js, find functions search(), prevPage(), nextPage().
+  Enter your API key in the GET request for all the 3 functions.
+  
+   	 $.get(
+		"https://www.googleapis.com/youtube/v3/search",{
+			part: 'snippet, id',
+			q: q,
+			pageToken: token,
+			type:'video',
+			key: 'YOUR_API_KEY_HERE'},
+			function(data){
 
 ## Vendors
 jQuery - [http://jquery.com](http://jquery.com) 
