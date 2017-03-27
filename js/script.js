@@ -88,7 +88,7 @@ function nextPage(){
 			q: q,
 			pageToken: token,
 			type:'video',
-			key: 'AIzaSyCvk3NNMQASZgFkCNxIp9jH-l8O0PXhDUo'},
+			key: 'YOUR_API_KEY_HERE'},
 			function(data){
 				var nextPageToken = data.nextPageToken;
 				var prevPageToken = data.prevPageToken;
@@ -132,7 +132,7 @@ function prevPage(){
 			q: q,
 			pageToken: token,
 			type:'video',
-			key: 'AIzaSyCvk3NNMQASZgFkCNxIp9jH-l8O0PXhDUo'},
+			key: 'YOUR_API_KEY_HERE'},
 			function(data){
 				var nextPageToken = data.nextPageToken;
 				var prevPageToken = data.prevPageToken;
