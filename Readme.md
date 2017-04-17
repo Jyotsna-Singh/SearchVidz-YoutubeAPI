@@ -13,7 +13,7 @@
 1.0.0
 
 ## Live Demo
- [jyotsnasingh.com/SearchVidz-YoutubeAPI](http://jyotsnasingh.com/projects/JavaScript/SeachVidz-YoutubeAPI/)
+ [JyotsnaSingh/SearchVidz-YoutubeAPI](http://jyotsnasingh.com/projects/JavaScript/SeachVidz-YoutubeAPI/)
 
 ## Usage
   In your js/script.js, find functions search(), prevPage(), nextPage().  
