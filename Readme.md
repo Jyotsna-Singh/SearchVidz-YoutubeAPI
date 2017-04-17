@@ -1,4 +1,4 @@
-# SearchVidz
+# ![alt tag](https://github.com/Jyotsna-Singh/SearchVidz-YoutubeAPI/blob/master/img/logo.PNG)
 **SearchVidz** is a Video Search Engine built using the Youtube API v3.
 
 * Features/Technologies: 
@@ -12,9 +12,9 @@
 ## Version
 1.0.0
 
-## Live Demo
- [JyotsnaSingh/SearchVidz-YoutubeAPI](http://jyotsnasingh.com/projects/JavaScript/SeachVidz-YoutubeAPI/)
-
+## Live Demo - JyotsnaSingh/SearchVidz-YoutubeAPI
+ [![alt tag](https://github.com/Jyotsna-Singh/SearchVidz-YoutubeAPI/blob/master/img/yellow-button.PNG)](http://jyotsnasingh.com/projects/JavaScript/SeachVidz-YoutubeAPI/)
+ 
 ## Usage
   In your js/script.js, find functions search(), prevPage(), nextPage().  
   
