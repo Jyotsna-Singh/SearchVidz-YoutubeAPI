@@ -12,8 +12,8 @@
 ## Version
 1.0.0
 
-## Live Demo - JyotsnaSingh/SearchVidz-YoutubeAPI
- [![alt tag](https://github.com/Jyotsna-Singh/SearchVidz-YoutubeAPI/blob/master/img/yellow-button.PNG)](http://jyotsnasingh.com/projects/JavaScript/SeachVidz-YoutubeAPI/)
+## Live Demo - SearchVidz
+ [![alt tag](https://github.com/Jyotsna-Singh/SearchVidz-YoutubeAPI/blob/master/img/green-button.PNG)](http://jyotsnasingh.com/projects/JavaScript/SeachVidz-YoutubeAPI/)
  
 ## Usage
   In your js/script.js, find functions search(), prevPage(), nextPage().  
@@ -28,6 +28,16 @@
 			type:'video',
 			key: 'YOUR_API_KEY_HERE'},
 			function(data){
+
+## Snapshots
+  
+ **Search Video** | 
+--- |
+ ![alt text](https://github.com/Jyotsna-Singh/SearchVidz-YoutubeAPI/blob/master/img/search.PNG)   |
+ 
+ **Play Video** | 
+--- |
+ ![alt text](https://github.com/Jyotsna-Singh/SearchVidz-YoutubeAPI/blob/master/img/video.PNG)   |
 
 ## Vendors
 jQuery - [http://jquery.com](http://jquery.com) 
